@@ -7,7 +7,7 @@ print('hello world my first python, wlcome firdaus')
 # string, int , float eg:
 
 x = 10
-y = "koko"
+y = "kokomas"
 
 sum1 = x+x
 sum2 = y+y
